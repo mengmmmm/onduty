@@ -1,0 +1,8 @@
+{
+  "name": "users",
+  "description": "api statistics",
+  "routes": {
+    "GET /users": "users",
+    "GET /user/:id":"userDetail"
+  }
+}
